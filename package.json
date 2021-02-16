@@ -1,0 +1,29 @@
+{
+  "name": "jsdomhtmlparsing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nancek00/jsdomhtmlparsing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nancek00/jsdomhtmlparsing/issues"
+  },
+  "homepage": "https://github.com/nancek00/jsdomhtmlparsing#readme",
+  "bin": {
+    "j": "./bin/index.js"
+  },
+  "dependencies": {
+    "boxen": "^4.0.0",
+    "chalk": "^2.4.2",
+    "crocks": "^0.12.4",
+    "jsdom": "^16.2.2",
+    "ramda": "^0.27.0"
+  }
+}
